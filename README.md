@@ -45,6 +45,6 @@ Conjunto de dados sintético criado para fins de portfólio.
 ### Workout Analysis
 <img width="1410" height="787" alt="image" src="https://github.com/user-attachments/assets/4caafc41-4e2d-4eba-89e4-01570f5a9c95" />
 
---
+---
 
 **Clique aqui para interagir com o Dashboard Online:**
