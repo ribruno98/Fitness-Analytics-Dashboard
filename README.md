@@ -48,3 +48,4 @@ Conjunto de dados sintético criado para fins de portfólio.
 ---
 
 **Clique aqui para interagir com o Dashboard Online:**
+https://app.powerbi.com/view?r=eyJrIjoiYTk3YWVlOGMtZjY3MS00NGZiLWFlNzgtZjE3ODI5ZGE0MWU0IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
